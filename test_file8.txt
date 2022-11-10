@@ -1,3 +1,7 @@
 we are making chage is another branch
+<<<<<<< HEAD
  i added some change is here 
 git main 
+=======
+ i added some change is her
+>>>>>>> second

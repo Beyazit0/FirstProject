@@ -7,4 +7,9 @@ maded some more changes
 
 
 
+<<<<<<< Updated upstream
 Beyazit 
+=======
+
+Practicing git stash 
+>>>>>>> Stashed changes
